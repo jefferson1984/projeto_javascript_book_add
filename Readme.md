@@ -1,0 +1,1 @@
+projeto em javascript que adiciona e remove livros utilizando storage do navagdor.
